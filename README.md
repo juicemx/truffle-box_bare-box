@@ -1,2 +1,2 @@
-# truffle-box_bare-box
-truffle-box_bare-box
+# bare-box
+Truffle Box for a bare-minimum Juice-Truffle project (`juice-truffle init`)
